@@ -7,7 +7,9 @@
 **4.** 
    * BEM. Methodology
    * Basic knowledge of HTML, CSS, JS.
+
 **5.**  __as they say -__ _better late than never_
+
 ### One of my solutions from codewars
 ```javasript
 function anagrams(word, words) {
