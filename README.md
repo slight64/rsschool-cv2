@@ -1,1 +1,1 @@
-https://slight64.github.io/rsschool-cv2/index.html
+https://slight64.github.io/rsschool-cv2
